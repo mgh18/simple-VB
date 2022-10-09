@@ -1,0 +1,17 @@
+C:\Users\marziyeh\source\repos\simple VB\simple VB\bin\Debug\net6.0-windows\simple VB.exe
+C:\Users\marziyeh\source\repos\simple VB\simple VB\bin\Debug\net6.0-windows\simple VB.deps.json
+C:\Users\marziyeh\source\repos\simple VB\simple VB\bin\Debug\net6.0-windows\simple VB.runtimeconfig.json
+C:\Users\marziyeh\source\repos\simple VB\simple VB\bin\Debug\net6.0-windows\simple VB.dll
+C:\Users\marziyeh\source\repos\simple VB\simple VB\bin\Debug\net6.0-windows\ref\simple VB.dll
+C:\Users\marziyeh\source\repos\simple VB\simple VB\bin\Debug\net6.0-windows\simple VB.pdb
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple VB.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple_VB.Form1.resources
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple VB.csproj.GenerateResource.cache
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple VB.AssemblyInfoInputs.cache
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple VB.AssemblyInfo.cs
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple VB.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple VB.dll
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\ref\simple VB.dll
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple VB.pdb
+C:\Users\marziyeh\source\repos\simple VB\simple VB\obj\Debug\net6.0-windows\simple VB.genruntimeconfig.cache
